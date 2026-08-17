@@ -1,0 +1,52 @@
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.exe
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.dll.config
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.deps.json
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.runtimeconfig.json
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.dll
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.pdb
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.csproj.AssemblyReference.cache
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\_20230104141_assingment_1.DebtPaymentForm.resources
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\_20230104141_assingment_1.Form1.resources
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.csproj.GenerateResource.cache
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.AssemblyInfoInputs.cache
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.AssemblyInfo.cs
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.csproj.CoreCompileInputs.cache
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104.A436B69D.Up2Date
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.dll
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\refint\20230104141_assingment_2.dll
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.pdb
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.genruntimeconfig.cache
+C:\Users\Masrafi\Downloads\Compressed\New folder (3)\20230104141_assingment_2\obj\Debug\net10.0-windows\ref\20230104141_assingment_2.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.exe
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.dll.config
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.deps.json
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.runtimeconfig.json
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\20230104141_assingment_2.pdb
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.csproj.AssemblyReference.cache
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\_20230104141_assingment_1.DebtPaymentForm.resources
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\_20230104141_assingment_1.Form1.resources
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.csproj.GenerateResource.cache
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.AssemblyInfoInputs.cache
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.AssemblyInfo.cs
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.csproj.CoreCompileInputs.cache
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104.A436B69D.Up2Date
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\refint\20230104141_assingment_2.dll
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.pdb
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\20230104141_assingment_2.genruntimeconfig.cache
+C:\Users\Masrafi\Downloads\Compressed\20230104141_C2\20230104141_assingment_2\obj\Debug\net10.0-windows\ref\20230104141_assingment_2.dll
